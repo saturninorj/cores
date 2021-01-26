@@ -2,3 +2,6 @@ amarelo
 verde
 azul
 preto
+
+marrom
+lilás
