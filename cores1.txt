@@ -5,3 +5,8 @@ preto
 
 marrom
 lilás
+
+branco
+laranja
+roxo
+azul marinho
