@@ -10,3 +10,9 @@ branco
 laranja
 roxo
 azul marinho
+
+
+gato 
+rato 
+leão
+tigre
