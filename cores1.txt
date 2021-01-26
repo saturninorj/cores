@@ -1,0 +1,4 @@
+amarelo
+verde
+azul
+preto
